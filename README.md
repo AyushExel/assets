@@ -24,3 +24,5 @@
 ![1_yWDh0Klw8Upsw1V54kkkdQ](https://github.com/AyushExel/assets/assets/15766192/a515fbf7-0553-437e-899e-67691eae3fef)
 <img width="1031" alt="Screenshot 2024-02-15 at 9 20 26 PM" src="https://github.com/AyushExel/assets/assets/15766192/16349473-30cb-4891-b405-dfc333619682">
 <img width="582" alt="Screenshot 2024-06-26 at 8 43 34 PM" src="https://github.com/AyushExel/assets/assets/15766192/04c656c3-8398-4b08-9741-768edfd1799c">
+<img width="805" alt="Screenshot-2024-09-17-at-5 28 22-PM" src="https://github.com/user-attachments/assets/15cfbb20-be02-4e5a-abb6-345f1003fe1f">
+<img width="1005" alt="Screenshot 2024-09-17 at 9 22 28 PM" src="https://github.com/user-attachments/assets/03c970eb-a15d-4468-9921-a2e8e6f2bc16">
