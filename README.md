@@ -27,3 +27,4 @@
 <img width="805" alt="Screenshot-2024-09-17-at-5 28 22-PM" src="https://github.com/user-attachments/assets/15cfbb20-be02-4e5a-abb6-345f1003fe1f">
 <img width="1005" alt="Screenshot 2024-09-17 at 9 22 28 PM" src="https://github.com/user-attachments/assets/03c970eb-a15d-4468-9921-a2e8e6f2bc16">
 <img width="1024" alt="Screenshot 2024-11-20 at 2 38 59 AM" src="https://github.com/user-attachments/assets/73311b13-a624-4736-8472-b22318bcd6b0">
+![pred_0](https://github.com/user-attachments/assets/144ae351-c520-4640-8081-3e9a0db9b432)
